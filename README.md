@@ -110,5 +110,8 @@ Complaint categorization
 
 > Early detection of malicious links or harmful content.
 
-OUTPUT:page 1: <img width="621" height="720" alt="Image" src="https://github.com/user-attachments/assets/7d98e417-3a7d-48b3-97b9-7093071c4b0e" />
-       page 2: <img width="576" height="705" alt="Image" src="https://github.com/user-attachments/assets/789542f7-f9d4-4b85-bf0d-34edd7f1652a" />
+OUTPUT:
+
+page 1: <img width="621" height="720" alt="Image" src="https://github.com/user-attachments/assets/7d98e417-3a7d-48b3-97b9-7093071c4b0e" />
+      
+page 2: <img width="576" height="705" alt="Image" src="https://github.com/user-attachments/assets/789542f7-f9d4-4b85-bf0d-34edd7f1652a" />
